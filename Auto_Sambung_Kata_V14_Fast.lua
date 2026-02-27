@@ -41,7 +41,7 @@ end
 local masterLoaded = false
 
 local function loadWordlist()
-    local GITHUB_URL = "https://raw.githubusercontent.com/notceenn/Masterwordlist/refs/heads/main/MasterWordList.txt"
+    local GITHUB_URL = "https://raw.githubusercontent.com/notceenn/cenn_script/refs/heads/main/MasterWordList.txt"
 
     local function indexRaw(raw)
         local count = 0
